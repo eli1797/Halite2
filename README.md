@@ -16,3 +16,9 @@ Utilize this repository to store past submissions and use branching to test stra
 5. Play the alternate bots locally against each other & watch replays (using halite2 cli)
 6. Submit the best of your new bots
 7. Repeat Steps 2-7
+
+### Strategy
+
+The current strategy is...
+
+Ideas and alternatives may be written here: [Strategy](Strategy.md)
