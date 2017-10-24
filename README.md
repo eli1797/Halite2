@@ -19,6 +19,6 @@ Utilize this repository to store past submissions and use branching to test stra
 
 ### Strategy
 
-The current strategy is...
+The main bot's current strategy is...
 
 Ideas and alternatives may be written here: [Strategy](Strategy.md)
